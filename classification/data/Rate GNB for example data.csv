@@ -1,0 +1,6 @@
+Rate Gaussian NB,,
+TRAIN DATA,TEST DATA,RATE
+iris.train,iris.test,100%
+iris.train,iris.test,95.39%
+sat.train,sat.test,78.15%
+sat.train,sat.train,78.81%
